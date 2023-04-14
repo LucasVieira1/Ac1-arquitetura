@@ -1,4 +1,4 @@
-*integrantes da atividade
+- - Integrantes da atividade
 - Lucas Machado Vieira RA: 210478
 - Samuel Dos Santos Pina RA: 210688
 
