@@ -1,5 +1,5 @@
-Lucas Machado Vieira RA: 210478
-Samuel Dos Santos Pina RA: 210688
+- Lucas Machado Vieira RA: 210478
+- Samuel Dos Santos Pina RA: 210688
 
 
 1. (1,0) Crie as classes que fazem parte desse projeto, utilize o JPA para criar as
